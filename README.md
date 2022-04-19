@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomashoyle. I'm a studying webdeveloper from The Netherlands. I can master social English and somewhat beyond that.
 - 👀 I’m interested in computersciences and webprogramming, but also inspired in doing programming in general.
-- 🌱 I’m currently learning the concept of Object Oriënted Programming, I'm still too imperative styled in programming. I also aiming to learn the Angular framework.
+- 🌱 I’m currently learning the concept of Object Oriënted Programming, I'm still too imperative styled in programming. I'm also aiming to learn the Angular framework.
 - 💞️ I’m looking to collaborate on codecademy collaborators, codecademy initiated my motive for signing up on Github.
 - 📫 How to reach me: I think I would be left under the radar for now. :D 
 
